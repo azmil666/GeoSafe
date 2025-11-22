@@ -24,7 +24,7 @@ All **without sending a single byte of data to the cloud**.
 
 ## 🎥 **Project Demo**
 
-[![GeoSafe Demo Walkthrough](https://youtu.be/2U-1OGnFmNI?si=yAKBoWVOX5ez5UaK)
+[![GeoSafe Demo Walkthrough](https://youtu.be/2U-1OGnFmNI?si=5kmKQ4dPv0zqtrkc)
 *(Click the image above to watch the full walkthrough on YouTube)*
 
 ---
